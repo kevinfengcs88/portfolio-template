@@ -1,2 +1,2 @@
 # portfolio-template
-A minimalistic templat
+A minimalistic template for a portfolio website
